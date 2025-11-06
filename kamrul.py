@@ -422,7 +422,7 @@ def login_2(uid):
                 break
         
             pass
-    loop += 2
+    loop += 1
 
 if __name__ == '__main__':
     BNG_71_()
